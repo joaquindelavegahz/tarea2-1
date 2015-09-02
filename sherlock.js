@@ -24,7 +24,7 @@ _INPUT = "2\n3 9\n17 24";
 //----- Start your code here -------
 //147710-Joaquín de la Vega Hernandez
 //Input Example
-_INPUT = "4\n3 9\n17 24";
+//_INPUT = "4\n3 9\n17 24";
 
 //Expected Output
 /*
